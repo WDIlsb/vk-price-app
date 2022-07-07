@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vk-price-app/static/css/main.9c6633a2.css",
-    "main.js": "/vk-price-app/static/js/main.0ced0a7c.js",
+    "main.js": "/vk-price-app/static/js/main.94d07623.js",
     "static/media/bg.jpg": "/vk-price-app/static/media/bg.7dfacd1b64c17aafc4cc.jpg",
     "index.html": "/vk-price-app/index.html",
     "main.9c6633a2.css.map": "/vk-price-app/static/css/main.9c6633a2.css.map",
-    "main.0ced0a7c.js.map": "/vk-price-app/static/js/main.0ced0a7c.js.map"
+    "main.94d07623.js.map": "/vk-price-app/static/js/main.94d07623.js.map"
   },
   "entrypoints": [
     "static/css/main.9c6633a2.css",
-    "static/js/main.0ced0a7c.js"
+    "static/js/main.94d07623.js"
   ]
 }
